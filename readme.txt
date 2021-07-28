@@ -1,3 +1,6 @@
+This is a University UI prototype for the Software Engineering Project
+To view the project:
+
 Run home.html to start the project.
 
 In the login screen:
